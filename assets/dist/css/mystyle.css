@@ -1,0 +1,15 @@
+.foto{
+    background: url(../img/bg1.jpg) no-repeat;
+    background-position: center;
+    background-size: cover;
+    max-width: 100%;
+    height: auto;
+}
+
+.txtc h1 a {
+    color: black;
+}
+
+.cor{
+    border-radius:1rem;
+}
